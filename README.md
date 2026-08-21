@@ -1,4 +1,4 @@
-# 📺 Claro Video Listas Aleatorias
+# 📺 Listas Aleatorias de Claro Video
 
 Listas de reproducción M3U 📺 actualizadas automáticamente para Claro Video depende la resolución forzada y agrupación por países latinoamericanos 🇲🇽🌎.
 
