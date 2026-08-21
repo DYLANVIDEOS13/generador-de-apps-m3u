@@ -75,11 +75,11 @@ https://pebpktstvhls-3.clarovideo.com/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8
 #EXTINF:-1 tvg-id="CONCERT CHANNEL" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/CONCERTCHANNEL/EXPORTACION_WEB/SS/CONCERTCHANNEL_t-290x163.png" group-title="Musica", CONCERT CHANNEL
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/CONCERTCHANNELHD/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="CANAL CLARO" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALCLARO/EXPORTACION_WEB/SS/CANALCLARO_t-290x163.png" group-title="Desconocido", CANAL CLARO
-https://pebpktstvhls-7.clarovideo.com/bpk-tv/CANALCLAROHD/hls_fk/playlist_dvr.m3u8
-
 #EXTINF:-1 tvg-id="CLARO CINEMA" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROCINEMA/EXPORTACION_WEB/SS/CLAROCINEMA_t-290x163.png" group-title="Peliculas", CLARO CINEMA
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/CLAROCINEMA/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="CANAL CLARO" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALCLARO/EXPORTACION_WEB/SS/CANALCLARO_t-290x163.png" group-title="Desconocido", CANAL CLARO
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/CANALCLAROHD/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="560" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/RT/EXPORTACION_WEB/SS/RT_t-290x163.png" group-title="Internacional", RT
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/RT/hls_fk/playlist_dvr.m3u8
