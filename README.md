@@ -6,10 +6,11 @@ Listas de reproducción M3U 📺 actualizadas automáticamente para Claro Video 
 
 ## 🔗 Listas Activas (M3U)
 
-| Región / Tipo / Enlace directo raw M3U (Copien y Peguen) |
-| :--- | :--- |
-| **🌍 TODAS LAS REGIONES (Ordenadas)** | `Proximamente...` |
-| **🇵🇪 Peru** | `https://raw.githubusercontent.com/DV2013GH/claro-video/refs/heads/main/claro_pe.m3u` |
+⬇️ Región / Tipo / Enlace directo raw M3U (Copien y Peguen) ⬇️
+
+**🌍 TODAS LAS REGIONES (Ordenadas)** `Proximamente...`
+
+**🇵🇪 Peru**`https://raw.githubusercontent.com/DV2013GH/claro-video/refs/heads/main/claro_pe.m3u` |
 
 
 ---
